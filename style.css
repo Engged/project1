@@ -15,6 +15,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    flex: 1;
     
 }
 
@@ -51,7 +52,7 @@ body {
     height: 400px;
     justify-content: center;
     gap: 50px;
-    
+    flex: 1;
     
 }
 
