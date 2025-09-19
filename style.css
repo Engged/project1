@@ -16,6 +16,7 @@ body {
     justify-content: space-around;
     align-items: center;
     flex: 1;
+    flex-wrap: wrap;
     
 }
 
@@ -53,6 +54,7 @@ body {
     justify-content: center;
     gap: 50px;
     flex: 1;
+    flex-wrap: wrap;
     
 }
 
