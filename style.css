@@ -48,9 +48,9 @@ body {
     padding: 8px;
     background-color:#1f2937;
     width: auto;
-    height: 600px;
+    height: 400px;
     justify-content: center;
-    gap: 100px;
+    gap: 50px;
     
     
 }
@@ -62,7 +62,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     margin: 0px;
-    gap: 50px;
+    gap: 20px;
     
     
 }
