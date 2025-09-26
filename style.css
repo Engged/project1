@@ -226,3 +226,62 @@ padding-left: 200px;
 
 }
 
+
+.container5 {
+
+display: flex;
+background-color: rgb(255, 255, 255);
+height: 250px;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+
+.rect {
+
+display: flex;
+padding: 50px;
+border-color: rgb(73, 156, 234);
+border-radius: 10px;
+background-color: rgb(68, 186, 254);
+flex-direction: column;
+
+
+
+
+}
+
+.marj {
+
+margin-bottom: 0px;
+text-decoration: solid;
+
+
+}
+
+
+
+.bu {
+display: flex;
+align-self: flex-end;
+border-color: #E5E7EB;
+
+
+}
+
+
+
+.cont6 {
+
+
+background-color: #1f2937;
+height: 100px;
+display: flex;
+justify-content: center;
+color: white;
+align-items: center;
+}
+
